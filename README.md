@@ -70,12 +70,10 @@ GymManagementTool/
 ## 📄 License
 
 This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 ## 🎓 Author
 
 Developed by **Yoav Peretz**  
-B.Sc. Computer Science – Ariel University  
+B.Sc. Computer Science  
 Course: Object-Oriented Programming (OOP)
